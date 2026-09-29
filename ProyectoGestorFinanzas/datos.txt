@@ -1,3 +1,0 @@
-Ingreso;300.0;Chaleco
-Ingreso;500.0;Cine
-Gasto;1000.0;papa

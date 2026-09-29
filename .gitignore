@@ -1,0 +1,19 @@
+# Compiled classes
+out/
+bin/
+*.class
+
+# Generated reports
+resumen.html
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
